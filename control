@@ -1,0 +1,7 @@
+Package: com.example.robloxlowgfx
+Name: Roblox Low Graphics
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tweak giảm đồ họa Roblox VNG
+Maintainer: ChatGPT
+Depends: mobilesubstrate
